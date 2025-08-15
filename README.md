@@ -45,7 +45,7 @@ This is an **educational tool** to learn about the classic Caesar Cipher encrypt
 ## 🌐 Live Demo
 
 Try it online:  
-[https://github.com/93rushikesh] 🌟
+https://github.com/93rushikesh/cyber-caesar-cipher/blob/main/Caesar%20Cipher.html 🌟
 
 ---
 
